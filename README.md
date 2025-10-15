@@ -1,12 +1,15 @@
 <div align="center">
-<img src="https://www.facebook.com/photo/?fbid=3604340889856233&set=a.1469282600028750" align="center" style="width: 100%" />
-</div>  
-  
+  <img src="https://raw.githubusercontent.com/codebychoyon/codebychoyon/refs/heads/master/full-stack-development.gif" />
+</div>
 
-### <div align="center">I'm Md. Sifat Hossen, a full-time full-stack developer 👨‍💻 working from Bangladesh 🚀</div>  
-  
+<h1 align="center">Hi 👋, I'm Md. Sifat Hossen</h1>
+<h3 align="center">A Passionate Django Backend Developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on Django   
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Django+%7C+DRF;Full-Stack+Learner+%7C+Django+%7C+React;Love+Coding+%26+Problem+Solving;Traveling+%7C+Gaming+%7C+Movies+%7C+Farming" alt="Typing SVG" />
+</p>
+
+- 🔭 I’m currently working on Django & Django Rest Framework
   
 
 - 🌱 I’m currently learning Python and JavaScript  
